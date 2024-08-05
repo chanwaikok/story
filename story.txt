@@ -4,3 +4,4 @@ He has breakfast.
 He go to the class.
 3rd line attended
 Then he . . .
+git1 add
